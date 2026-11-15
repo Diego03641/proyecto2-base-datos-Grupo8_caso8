@@ -8,3 +8,10 @@ El sistema utilizará cuatro capas:
 3. Presentación: Streamlit mostrará formularios, consultas y gráficos.
 4. Despliegue: Docker Compose permitirá ejecutar los servicios del proyecto.
 Estas tecnologías se implementarán y probarán durante las siguientes etapas.
+
+## Evidencias esperadas
+- Datos: scripts SQL ejecutables y capturas de consultas en MySQL.
+- Acceso a datos: conexión y consultas comprobadas mediante Python, utilizando una capa DAO.
+- Presentación: dashboard, formularios y gráficos utilizando Streamlit, Pandas y Plotly.
+- Despliegue: configuración con Docker Compose, variables de entorno e instrucciones en README.md.
+Las evidencias se recopilarán durante la implementación y las pruebas del proyecto.
